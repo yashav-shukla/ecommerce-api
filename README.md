@@ -173,7 +173,7 @@ curl -X POST http://localhost:4000/categories \
 ## 👨‍💻 Author
 
 **Yashav Shukla**
-GitHub: [https://github.com/yashavshukla](https://github.com/yashavshukla)
+GitHub: [https://github.com/yashavshukla](https://github.com/yashav-shukla)
 
 ---
 
